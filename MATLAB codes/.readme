@@ -1,1 +1,4 @@
 Folder containing MATLAB codes developed for production and transportation optimization.
+
+-File names containing the the string "objective" contain the definition of the objective function to be optimized.
+-All the other files contain the relevant constraints for the model.
