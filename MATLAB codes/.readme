@@ -2,3 +2,4 @@ Folder containing MATLAB codes developed for production and transportation optim
 
 -File names containing the the string "objective" contain the definition of the objective function to be optimized.
 -All the other files contain the relevant constraints for the model.
+-runfile contains the final piece of code to run the code and stores the result to disk.
